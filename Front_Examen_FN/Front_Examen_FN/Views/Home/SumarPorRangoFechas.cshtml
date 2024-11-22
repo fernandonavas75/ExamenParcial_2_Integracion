@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Sumar Ingresos por Rango de Fechas";
+}
+
+<h2>Sumar Ingresos por Rango de Fechas</h2>
+
+<form method="get" action="/Ingresos/SumarPorRangoFechas">
+    <label>Fecha Inicio:</label>
+    <input type="date" name="fechaInicio" required />
+    <label>Fecha Fin:</label>
+    <input type="date" name="fechaFin" required />
+    <button type="submit">Calcular</button>
+</form>
+
+@if (!string.IsNullOrEmpty(ViewBag.Total))
+{
+    <p>El total de ingresos es: @ViewBag.Total</p>
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.Error))
+{
+    <p style="color: red;">@ViewBag.Error</p>
+}

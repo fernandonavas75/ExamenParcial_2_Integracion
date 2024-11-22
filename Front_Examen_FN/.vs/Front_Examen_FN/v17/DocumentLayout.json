@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\front_examen_fn\\front_examen_fn\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|solutionrelative:front_examen_fn\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\front_examen_fn\\front_examen_fn\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|solutionrelative:front_examen_fn\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\front_examen_fn\\front_examen_fn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|solutionrelative:front_examen_fn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\front_examen_fn\\front_examen_fn\\views\\home\\listarporestado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|solutionrelative:front_examen_fn\\views\\home\\listarporestado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\front_examen_fn\\front_examen_fn\\views\\home\\promedioportipo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|solutionrelative:front_examen_fn\\views\\home\\promedioportipo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\front_examen_fn\\front_examen_fn\\views\\home\\sumarporrangofechas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|solutionrelative:front_examen_fn\\views\\home\\sumarporrangofechas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\front_examen_fn\\front_examen_fn\\models\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8310E83C-72AD-4D45-895C-FCD9D2E7A25C}|Front_Examen_FN\\Front_Examen_FN.csproj|solutionrelative:front_examen_fn\\models\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Front_Examen_FN\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Front_Examen_FN\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:42:47.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromedioPorTipo.cshtml",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Views\\Home\\PromedioPorTipo.cshtml",
+              "RelativeDocumentMoniker": "Front_Examen_FN\\Views\\Home\\PromedioPorTipo.cshtml",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Views\\Home\\PromedioPorTipo.cshtml",
+              "RelativeToolTip": "Front_Examen_FN\\Views\\Home\\PromedioPorTipo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:42:08.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SumarPorRangoFechas.cshtml",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Views\\Home\\SumarPorRangoFechas.cshtml",
+              "RelativeDocumentMoniker": "Front_Examen_FN\\Views\\Home\\SumarPorRangoFechas.cshtml",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Views\\Home\\SumarPorRangoFechas.cshtml",
+              "RelativeToolTip": "Front_Examen_FN\\Views\\Home\\SumarPorRangoFechas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:41:26.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarPorEstado.cshtml",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Views\\Home\\ListarPorEstado.cshtml",
+              "RelativeDocumentMoniker": "Front_Examen_FN\\Views\\Home\\ListarPorEstado.cshtml",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Views\\Home\\ListarPorEstado.cshtml",
+              "RelativeToolTip": "Front_Examen_FN\\Views\\Home\\ListarPorEstado.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:39:36.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Front_Examen_FN\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Front_Examen_FN\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:31:25.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IngresosController.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Controllers\\IngresosController.cs",
+              "RelativeDocumentMoniker": "Front_Examen_FN\\Controllers\\IngresosController.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Controllers\\IngresosController.cs",
+              "RelativeToolTip": "Front_Examen_FN\\Controllers\\IngresosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:31:19.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingreso.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Models\\Ingreso.cs",
+              "RelativeDocumentMoniker": "Front_Examen_FN\\Models\\Ingreso.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Front_Examen_FN\\Front_Examen_FN\\Models\\Ingreso.cs",
+              "RelativeToolTip": "Front_Examen_FN\\Models\\Ingreso.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:29:49.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

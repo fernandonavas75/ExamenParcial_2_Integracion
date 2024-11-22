@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Promedio de Ingresos por Tipo";
+}
+
+<h2>Promedio de Ingresos por Tipo</h2>
+
+<form method="get" action="/Ingresos/PromedioPorTipo">
+    <label>ID Tipo:</label>
+    <input type="number" name="idTipo" required />
+    <button type="submit">Calcular</button>
+</form>
+
+@if (!string.IsNullOrEmpty(ViewBag.Promedio))
+{
+    <p>El promedio de ingresos es: @ViewBag.Promedio</p>
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.Error))
+{
+    <p style="color: red;">@ViewBag.Error</p>
+}

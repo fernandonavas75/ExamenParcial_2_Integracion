@@ -1,0 +1,38 @@
+﻿@model List<Front_Examen_FN.Models.Ingreso>
+
+@{
+    ViewBag.Title = "Lista de Ingresos por Estado";
+}
+
+<h2>Lista de Ingresos por Estado</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Error))
+{
+    <p style="color: red;">@ViewBag.Error</p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Fecha</th>
+            <th>Valor</th>
+            <th>Estado</th>
+            <th>ID Tipo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ingreso in Model)
+        {
+            <tr>
+                <td>@ingreso.Id</td>
+                <td>@ingreso.Nombre</td>
+                <td>@ingreso.Fecha</td>
+                <td>@ingreso.Valor</td>
+                <td>@(ingreso.Estado ? "Activo" : "Inactivo")</td>
+                <td>@ingreso.IdTipo</td>
+            </tr>
+        }
+    </tbody>
+</table>
