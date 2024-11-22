@@ -1,12 +1,137 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\back_examen_fn\\back_examen_fn\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|solutionrelative:back_examen_fn\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\back_examen_fn\\back_examen_fn\\models\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|solutionrelative:back_examen_fn\\models\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\back_examen_fn\\back_examen_fn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|solutionrelative:back_examen_fn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\back_examen_fn\\back_examen_fn\\models\\parcial02context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|solutionrelative:back_examen_fn\\models\\parcial02context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\back_examen_fn\\back_examen_fn\\models\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|solutionrelative:back_examen_fn\\models\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\back_examen_fn\\back_examen_fn\\back_examen_fn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|solutionrelative:back_examen_fn\\back_examen_fn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|c:\\users\\navas\\documents\\github\\examenparcial_2_integracion\\back_examen_fn\\back_examen_fn\\back_examen_fn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44596377-1A10-48A8-9E7A-E090B306B77D}|Back_Examen_Fn\\Back_Examen_Fn.csproj|solutionrelative:back_examen_fn\\back_examen_fn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Program.cs",
+              "RelativeDocumentMoniker": "Back_Examen_Fn\\Program.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Program.cs",
+              "RelativeToolTip": "Back_Examen_Fn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:12:39.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Models\\Tipo.cs",
+              "RelativeDocumentMoniker": "Back_Examen_Fn\\Models\\Tipo.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Models\\Tipo.cs",
+              "RelativeToolTip": "Back_Examen_Fn\\Models\\Tipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:48:09.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingreso.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Models\\Ingreso.cs",
+              "RelativeDocumentMoniker": "Back_Examen_Fn\\Models\\Ingreso.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Models\\Ingreso.cs",
+              "RelativeToolTip": "Back_Examen_Fn\\Models\\Ingreso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:48:03.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parcial02Context.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Models\\Parcial02Context.cs",
+              "RelativeDocumentMoniker": "Back_Examen_Fn\\Models\\Parcial02Context.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Models\\Parcial02Context.cs",
+              "RelativeToolTip": "Back_Examen_Fn\\Models\\Parcial02Context.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:47:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IngresosController.cs",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Controllers\\IngresosController.cs",
+              "RelativeDocumentMoniker": "Back_Examen_Fn\\Controllers\\IngresosController.cs",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Controllers\\IngresosController.cs",
+              "RelativeToolTip": "Back_Examen_Fn\\Controllers\\IngresosController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:44:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Back_Examen_Fn.http",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Back_Examen_Fn.http",
+              "RelativeDocumentMoniker": "Back_Examen_Fn\\Back_Examen_Fn.http",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Back_Examen_Fn.http",
+              "RelativeToolTip": "Back_Examen_Fn\\Back_Examen_Fn.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-22T19:42:00.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Back_Examen_Fn.csproj",
+              "DocumentMoniker": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Back_Examen_Fn.csproj",
+              "RelativeDocumentMoniker": "Back_Examen_Fn\\Back_Examen_Fn.csproj",
+              "ToolTip": "C:\\Users\\navas\\Documents\\GitHub\\ExamenParcial_2_Integracion\\Back_Examen_Fn\\Back_Examen_Fn\\Back_Examen_Fn.csproj",
+              "RelativeToolTip": "Back_Examen_Fn\\Back_Examen_Fn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T19:41:43.027Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

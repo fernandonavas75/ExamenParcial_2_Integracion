@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Back_Examen_Fn.props" />
+</Project>
